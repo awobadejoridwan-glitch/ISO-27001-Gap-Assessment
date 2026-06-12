@@ -1,0 +1,47 @@
+# GAP-008: Awareness
+
+**Clause:** 7.3 Awareness
+
+**Status:** Not Implemented
+
+**Risk Level:** 🔴 HIGH
+
+**Gap Identified:** Finance Department staff have no formal awareness of information security policies and responsibilities
+
+**Current Situation:**
+No information security awareness training or communication has been conducted. Staff are unaware of information security policies, their responsibilities, or security procedures.
+
+**Requirement:**
+ISO 27001:2022 Clause 7.3 requires that persons doing work under organisation control are aware of:
+- The information security policy
+- Their contribution to information security
+- The implications of not conforming to ISMS requirements
+- The actual or potential consequences of non-compliance
+
+**Evidence Required:**
+- Awareness training materials
+- Training attendance records
+- Awareness communication (posters, newsletters, emails)
+- Assessment of awareness understanding
+- Training effectiveness records
+- Refresher training schedule
+
+**Recommended Corrective Action:**
+Develop and conduct information security awareness program:
+1. Create awareness training content
+2. Conduct training for all Finance Department staff
+3. Cover: policies, responsibilities, threats, safe practices
+4. Assess understanding (quizzes, discussions)
+5. Provide ongoing communications
+6. Schedule annual refresher training
+7. Maintain records of all activities
+
+**Control Owner:** HR and Finance Department Head
+
+**Timeline:** 45 days
+
+**Success Criteria:**
+- Training delivered to 100% of staff
+- 80%+ pass awareness assessment
+- Records maintained
+- Annual refresher planned
