@@ -1,0 +1,22 @@
+# Clause 6: Planning
+
+## Overview
+Clause 6 establishes requirements for planning and addressing information security risks and objectives.
+
+## Gaps in this Clause
+
+| Gap | Title | Risk | Status |
+|-----|-------|------|--------|
+| GAP-004 | Risk Assessment | HIGH | Not Implemented |
+| GAP-005 | Security Objectives | MEDIUM | Not Implemented |
+
+## Key Requirements
+
+- Conduct systematic risk assessments
+- Identify, analyze, and evaluate information security risks
+- Define measurable information security objectives
+- Communicate objectives throughout the department
+
+## Remediation Priority
+
+**CRITICAL** — Risk assessment is foundational. Without it, the Finance Department cannot identify what needs to be protected or prioritize efforts.
