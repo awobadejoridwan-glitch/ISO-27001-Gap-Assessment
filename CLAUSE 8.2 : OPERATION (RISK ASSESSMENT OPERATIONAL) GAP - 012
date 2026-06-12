@@ -1,0 +1,47 @@
+# GAP-012: Information Security Risk Assessment (Operational)
+
+**Clause:** 8.2 Information Security Risk Assessment
+
+**Status:** Not Implemented
+
+**Risk Level:** 🔴 HIGH
+
+**Gap Identified:** No periodic risk assessments have been conducted in the Finance Department
+
+**Current Situation:**
+While initial risk assessment gap exists in Clause 6, ongoing periodic risk assessments are also not being conducted. There is no schedule for reassessing risks or reviewing risk register.
+
+**Requirement:**
+ISO 27001:2022 Clause 8.2 requires the organisation to:
+- Conduct information security risk assessments at planned intervals
+- Conduct assessments when significant changes occur
+- Compare results with previous assessments
+- Document results and analysis
+
+**Evidence Required:**
+- Risk assessment schedule
+- Periodic risk assessment reports
+- Risk register updates
+- Change logs
+- Management review of risk trends
+- Evidence of trend analysis
+
+**Recommended Corrective Action:**
+Implement ongoing risk assessment process:
+1. Establish annual risk assessment schedule
+2. Trigger assessments when major changes occur
+3. Use consistent assessment methodology
+4. Compare results with previous years
+5. Identify emerging risks
+6. Update risk register quarterly
+7. Report trends to management
+
+**Control Owner:** Finance Department Head
+
+**Timeline:** 30 days to establish schedule; ongoing assessments
+
+**Success Criteria:**
+- Annual risk assessment schedule established
+- First periodic assessment completed
+- Trend analysis documented
+- Risk register updated
