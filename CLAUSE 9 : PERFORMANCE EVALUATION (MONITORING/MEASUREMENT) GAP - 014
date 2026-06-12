@@ -1,0 +1,47 @@
+# GAP-014: Monitoring and Measurement
+
+**Clause:** 9.1 Monitoring and Measurement
+
+**Status:** Not Implemented
+
+**Risk Level:** 🟡 MEDIUM
+
+**Gap Identified:** No monitoring or measurement of information security performance exists in the Finance Department
+
+**Current Situation:**
+There are no metrics, KPIs, or monitoring processes in place to measure information security performance or the effectiveness of the ISMS.
+
+**Requirement:**
+ISO 27001:2022 Clause 9.1 requires the organisation to:
+- Monitor and measure information security processes
+- Evaluate the effectiveness of the ISMS
+- Analyze and evaluate results
+- Report on ISMS performance
+
+**Evidence Required:**
+- KPI and metric definitions
+- Monitoring procedures
+- Monitoring data and reports
+- Performance analysis records
+- Trend analysis documentation
+- Management reporting records
+
+**Recommended Corrective Action:**
+Establish information security performance monitoring:
+1. Define 10-15 key performance indicators
+2. Examples: "% access control compliance", "incident response time", "policy compliance rate"
+3. Establish baseline measurements
+4. Implement monitoring procedures
+5. Collect data regularly (monthly/quarterly)
+6. Analyze trends
+7. Report results to management
+
+**Control Owner:** Finance Department Head
+
+**Timeline:** 30 days
+
+**Success Criteria:**
+- KPIs defined and documented
+- Baseline measurements established
+- Monitoring process in place
+- Monthly performance reports generated
