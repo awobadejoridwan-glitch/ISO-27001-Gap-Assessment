@@ -1,0 +1,50 @@
+# GAP-018: Nonconformity and Corrective Action
+
+**Clause:** 10.2 Nonconformity and Corrective Actions
+
+**Status:** Not Implemented
+
+**Risk Level:** 🔴 HIGH
+
+**Gap Identified:** No nonconformity or corrective action process exists in the Finance Department
+
+**Current Situation:**
+There is no process to identify, document, or respond to nonconformities (failures to meet ISMS requirements). When issues occur, they are not formally managed or corrected.
+
+**Requirement:**
+ISO 27001:2022 Clause 10.2 requires the organisation to:
+- React to nonconformities
+- Determine actions to control and correct nonconformities
+- Implement corrective actions
+- Evaluate effectiveness of corrective actions
+- Maintain records of nonconformities and actions
+
+**Evidence Required:**
+- Nonconformity management procedure
+- Nonconformity reporting form/template
+- Nonconformity register
+- Corrective action plans
+- Evidence of corrective action implementation
+- Follow-up and closure records
+- Effectiveness verification
+
+**Recommended Corrective Action:**
+Develop nonconformity and corrective action process:
+1. Create nonconformity management procedure
+2. Define how nonconformities are identified and reported
+3. Establish nonconformity assessment criteria
+4. Develop corrective action planning process
+5. Require root cause analysis
+6. Track implementation progress
+7. Verify effectiveness of actions
+8. Close nonconformities when resolved
+
+**Control Owner:** Finance Director
+
+**Timeline:** 30 days to establish; ongoing
+
+**Success Criteria:**
+- Process documented
+- Nonconformity register established
+- Reporting mechanism in place
+- Tracking system implemented
