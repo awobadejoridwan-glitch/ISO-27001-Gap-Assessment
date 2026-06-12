@@ -1,0 +1,26 @@
+# Clause 7: Support
+
+## Overview
+Clause 7 addresses the support resources, competence, awareness, communication, and documentation needed for a functioning ISMS.
+
+## Gaps in this Clause
+
+| Gap | Title | Risk | Status |
+|-----|-------|------|--------|
+| GAP-006 | Resources | HIGH | Partially Implemented |
+| GAP-007 | Competence | HIGH | Not Implemented |
+| GAP-008 | Awareness | HIGH | Not Implemented |
+| GAP-009 | Communication | MEDIUM | Not Implemented |
+| GAP-010 | Documented Information | HIGH | Not Implemented |
+
+## Key Requirements
+
+- Allocate appropriate resources (people, budget, infrastructure)
+- Ensure staff competence through training
+- Build awareness of policies and responsibilities
+- Establish communication channels
+- Maintain comprehensive ISMS documentation
+
+## Remediation Priority
+
+**CRITICAL** — This clause has 5 gaps affecting 4 areas. Without people, competence, awareness, and documentation, ISMS implementation will fail.
