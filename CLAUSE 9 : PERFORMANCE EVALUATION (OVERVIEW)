@@ -1,0 +1,24 @@
+# Clause 9: Performance Evaluation
+
+## Overview
+Clause 9 addresses how organisations evaluate ISMS performance through monitoring, auditing, and management review.
+
+## Gaps in this Clause
+
+| Gap | Title | Risk | Status |
+|-----|-------|------|--------|
+| GAP-014 | Monitoring and Measurement | MEDIUM | Not Implemented |
+| GAP-015 | Internal Audit | HIGH | Not Implemented |
+| GAP-016 | Management Review | HIGH | Not Implemented |
+
+## Key Requirements
+
+- Monitor and measure ISMS performance
+- Conduct regular internal audits
+- Hold periodic management reviews
+- Analyze effectiveness
+- Identify improvement opportunities
+
+## Remediation Priority
+
+**HIGH** — Without monitoring, auditing, and review, there is no visibility into ISMS effectiveness or compliance.
