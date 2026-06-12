@@ -1,0 +1,47 @@
+# GAP-017: Continual Improvement
+
+**Clause:** 10.1 Continual Improvement
+
+**Status:** Not Implemented
+
+**Risk Level:** 🔴 HIGH
+
+**Gap Identified:** No continual improvement process exists for the ISMS in the Finance Department
+
+**Current Situation:**
+There is no systematic approach to continuously improving the ISMS based on findings, results, changes, and emerging threats.
+
+**Requirement:**
+ISO 27001:2022 Clause 10.1 requires the organisation to:
+- Continually improve the suitability, adequacy, and effectiveness of the ISMS
+- Use results and findings from evaluation
+- Obtain input from relevant parties
+- Determine actions to address improvement opportunities
+
+**Evidence Required:**
+- Improvement process documentation
+- Improvement opportunities register
+- Process improvement records
+- Effectiveness data analysis
+- Management decision records
+- Implementation tracking
+
+**Recommended Corrective Action:**
+Establish continual improvement process:
+1. Collect improvement input from multiple sources (audits, reviews, feedback)
+2. Analyze findings to identify improvement opportunities
+3. Prioritize improvements based on risk and impact
+4. Plan and implement improvements
+5. Measure effectiveness of improvements
+6. Document all decisions and actions
+7. Schedule regular improvement reviews
+
+**Control Owner:** Finance Director
+
+**Timeline:** 30 days to establish; ongoing
+
+**Success Criteria:**
+- Improvement process documented
+- Improvement register created
+- First round of improvements planned
+- Tracking mechanism in place
