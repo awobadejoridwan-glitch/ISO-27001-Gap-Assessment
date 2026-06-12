@@ -1,0 +1,42 @@
+# GAP-006: Resources
+
+**Clause:** 7.1 Resources
+
+**Status:** Partially Implemented
+
+**Risk Level:** 🔴 HIGH
+
+**Gap Identified:** No dedicated information security resources allocated to the Finance Department
+
+**Current Situation:**
+The Finance Department has not allocated dedicated personnel, budget, or infrastructure specifically for information security activities. No one has clear responsibility for ISMS implementation or management.
+
+**Requirement:**
+ISO 27001:2022 Clause 7.1 requires the organisation to determine and provide resources needed for the establishment, implementation, maintenance, and continual improvement of the ISMS, including people, infrastructure, technology, and finances.
+
+**Evidence Required:**
+- Information security staff assigned (full or part-time)
+- Budget allocation records
+- Infrastructure and systems inventory
+- Resource allocation policy
+- Job descriptions for information security roles
+- Training budget documentation
+
+**Recommended Corrective Action:**
+Allocate dedicated information security resources:
+1. Assign an Information Security Officer or Coordinator
+2. Allocate budget for ISMS activities
+3. Provide necessary tools and infrastructure
+4. Support with technology and systems
+5. Enable training and development
+6. Provide time for ISMS activities
+
+**Control Owner:** Finance Director
+
+**Timeline:** 30 days
+
+**Success Criteria:**
+- Information Security Officer/Coordinator appointed
+- Budget allocated for ISMS (minimum 2-3% of IT budget)
+- Infrastructure and tools provided
+- Job descriptions documented
