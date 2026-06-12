@@ -1,0 +1,36 @@
+# GAP-001: Context of the Organisation
+
+**Clause:** 4.1 Context of the Organisation
+
+**Status:** Not Implemented
+
+**Risk Level:** 🔴 HIGH
+
+**Gap Identified:** No documented context analysis exists for the Finance Department
+
+**Current Situation:**
+The Finance Department has not conducted or documented an analysis of internal and external issues relevant to information security. There is no formal process to identify and understand the context in which the ISMS operates.
+
+**Requirement:**
+ISO 27001:2022 Clause 4.1 requires the organisation to determine internal and external issues relevant to information security and the direction it wishes to take regarding information security.
+
+**Evidence Required:**
+- Context analysis document
+- Internal and external issues register
+- Strategic information security direction statement
+- Management review records
+
+**Recommended Corrective Action:**
+Conduct and document a comprehensive context analysis for the Finance Department that identifies:
+- Internal issues (resources, capabilities, governance)
+- External issues (regulatory environment, market conditions, stakeholder expectations)
+- Strategic direction for information security
+
+**Control Owner:** Finance Department Head
+
+**Timeline:** 30 days
+
+**Success Criteria:**
+- Context analysis document completed and approved
+- All internal and external issues identified and documented
+- Strategic information security direction clearly articulated
