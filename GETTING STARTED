@@ -1,0 +1,52 @@
+# Getting Started with the ISO 27001 Gap Assessment
+
+## Quick Overview
+
+This repository contains a complete ISO 27001:2022 Gap Assessment for Zith Bank PLC Finance Department, structured by clause.
+
+## 📂 Folder Structure
+
+Each clause folder contains:
+- Individual gap files (.md) with detailed analysis
+- README.md with clause overview and remediation priority
+
+Example: `Clause-4-Context-of-Organization/`
+- GAP-001-Context-Analysis.md
+- GAP-002-Interested-Parties.md
+- README.md
+
+## 📊 Key Statistics
+
+| Metric | Value |
+|--------|-------|
+| Total Gaps | 18 |
+| High Risk | 15 (83%) |
+| Medium Risk | 3 (17%) |
+| Clauses Covered | 7 (Clause 4-10) |
+
+## 🚀 Using This Assessment
+
+1. **Start with** Reports folder for comprehensive overview
+2. **Drill down** into clause folders for detailed gap analysis
+3. **Track remediation** using the provided templates
+4. **Follow timelines** suggested in each gap file
+
+## 📋 Remediation Timeline
+
+- **Week 1-2:** Context, Leadership, Interested Parties
+- **Week 3-4:** Risk Assessment, Objectives
+- **Week 5-8:** Resources, Competence, Awareness, Documentation
+- **Week 9-12:** Operational Planning, Risk Treatment, Audits
+- **Week 13-16:** Management Review, Improvement, Corrective Actions
+
+## 📧 Contact
+
+For questions regarding this assessment:
+- Email: awobadejoridwan@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ridwan-awobadejo-37a840384
+
+---
+
+*Assessment Date: June 2026*
+*Prepared by: Awobadejo Ridwan Bamidele*
+*ISO 27001 Lead Auditor | ISC2 CC*
