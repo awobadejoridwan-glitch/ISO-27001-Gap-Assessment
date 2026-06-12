@@ -1,0 +1,22 @@
+# Clause 4: Context of the Organisation
+
+## Overview
+Clause 4 establishes the requirements for understanding the organisation's context and determining relevant interested parties and their information security requirements.
+
+## Gaps in this Clause
+
+| Gap | Title | Risk | Status |
+|-----|-------|------|--------|
+| GAP-001 | Context Analysis | HIGH | Not Implemented |
+| GAP-002 | Interested Parties | HIGH | Not Implemented |
+
+## Key Requirements
+
+- Determine internal and external issues relevant to information security
+- Identify interested parties and their requirements
+- Establish strategic direction for information security
+- Document and communicate context and requirements
+
+## Remediation Priority
+
+**URGENT** — Both gaps are High Risk and foundational to the entire ISMS. These must be addressed immediately.
