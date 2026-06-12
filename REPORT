@@ -1,0 +1,22 @@
+# Reports
+
+This folder contains the comprehensive Gap Assessment deliverables.
+
+## Files
+
+1. **ISO-27001-Gap-Assessment-Report.pdf** — Professional PDF report with all findings, tables, charts, and recommendations (11 pages)
+2. **ISO-27001-Gap-Assessment-Report.docx** — MS Word version with formatted tables and conformity analysis
+3. **Gap-Assessment-Checklist.xlsx** — Detailed Excel checklist with all 18 gaps, color-coded by risk level, and summary dashboard with pie chart
+
+## How to Use
+
+- **Executive Summary** → Start with the PDF report
+- **Detailed Analysis** → Review the Excel checklist
+- **Implementation Tracking** → Use the Word document to track corrective actions
+
+## Key Metrics
+
+- **Total Gaps:** 18
+- **High Risk:** 15 (83%)
+- **Medium Risk:** 3 (17%)
+- **Clauses Affected:** All (Clause 4-10)
