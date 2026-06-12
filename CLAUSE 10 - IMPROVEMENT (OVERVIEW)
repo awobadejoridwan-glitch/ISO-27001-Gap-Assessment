@@ -1,0 +1,23 @@
+# Clause 10: Improvement
+
+## Overview
+Clause 10 addresses the continual improvement of the ISMS and the management of nonconformities and corrective actions.
+
+## Gaps in this Clause
+
+| Gap | Title | Risk | Status |
+|-----|-------|------|--------|
+| GAP-017 | Continual Improvement | HIGH | Not Implemented |
+| GAP-018 | Nonconformity and Corrective Action | HIGH | Not Implemented |
+
+## Key Requirements
+
+- Establish a process for continual improvement
+- Identify improvement opportunities
+- Manage nonconformities
+- Implement corrective actions
+- Verify effectiveness of improvements
+
+## Remediation Priority
+
+**CRITICAL** — These are essential processes for maintaining and improving the ISMS over time. Without them, the ISMS becomes static and ineffective.
