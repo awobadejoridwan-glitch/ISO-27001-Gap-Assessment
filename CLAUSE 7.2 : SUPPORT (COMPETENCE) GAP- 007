@@ -1,0 +1,47 @@
+# GAP-007: Competence
+
+**Clause:** 7.2 Competence
+
+**Status:** Not Implemented
+
+**Risk Level:** 🔴 HIGH
+
+**Gap Identified:** No competence framework or training records exist for Finance Department staff
+
+**Current Situation:**
+The Finance Department has not assessed the competence of staff performing information security work, nor has it established training programs to develop competence. There are no records of competency assessments or training.
+
+**Requirement:**
+ISO 27001:2022 Clause 7.2 requires the organisation to ensure that persons doing work under its control are competent, including:
+- Determining necessary competence
+- Providing training or other measures
+- Evaluating effectiveness of measures taken
+- Maintaining appropriate records
+
+**Evidence Required:**
+- Competence framework document
+- Training needs assessment
+- Training records for all staff
+- Competence assessment records
+- Training effectiveness evaluation
+- Certification or qualification records
+
+**Recommended Corrective Action:**
+Develop and implement a competence program:
+1. Define competence requirements for roles
+2. Assess current competence levels
+3. Identify training gaps
+4. Develop/deliver training programs
+5. Record all training completed
+6. Evaluate training effectiveness
+7. Maintain training records
+
+**Control Owner:** HR and Finance Department Head
+
+**Timeline:** 60 days
+
+**Success Criteria:**
+- Competence framework created
+- Training delivered to 100% of relevant staff
+- Training records maintained
+- Competence evaluations completed
