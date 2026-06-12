@@ -1,0 +1,24 @@
+# Clause 8: Operation
+
+## Overview
+Clause 8 addresses the operational aspects of information security, including risk assessment processes and risk treatment implementation.
+
+## Gaps in this Clause
+
+| Gap | Title | Risk | Status |
+|-----|-------|------|--------|
+| GAP-011 | Operational Planning | HIGH | Not Implemented |
+| GAP-012 | Periodic Risk Assessment | HIGH | Not Implemented |
+| GAP-013 | Risk Treatment | HIGH | Not Implemented |
+
+## Key Requirements
+
+- Develop operational security processes
+- Conduct periodic risk assessments
+- Implement risk treatment plans
+- Select and implement appropriate controls
+- Monitor operational effectiveness
+
+## Remediation Priority
+
+**CRITICAL** — These gaps address how risks are actually treated. Without implementation, identified risks remain uncontrolled.
