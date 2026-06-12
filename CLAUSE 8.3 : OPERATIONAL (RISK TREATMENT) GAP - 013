@@ -1,0 +1,51 @@
+# GAP-013: Risk Treatment
+
+**Clause:** 8.3 Risk Treatment
+
+**Status:** Not Implemented
+
+**Risk Level:** 🔴 HIGH
+
+**Gap Identified:** No risk treatment plan exists for identified risks in the Finance Department
+
+**Current Situation:**
+Once risks are identified, there must be a plan to treat them (avoid, mitigate, transfer, accept). The Finance Department has no documented risk treatment approach or plan.
+
+**Requirement:**
+ISO 27001:2022 Clause 8.3 requires the organisation to:
+- Define and implement information security risk treatment plan
+- Address identified risks
+- Select appropriate risk treatment options
+- Maintain Statement of Applicability (SOA)
+- Obtain approval before implementation
+- Implement risk treatment plan
+
+**Evidence Required:**
+- Risk treatment plan document
+- Statement of Applicability (SOA)
+- Control selection justification
+- Treatment option analysis
+- Implementation records
+- Approval documentation
+- Control effectiveness evidence
+
+**Recommended Corrective Action:**
+Develop and implement risk treatment plan:
+1. For each identified risk, select treatment option
+2. Select appropriate controls from Annex A
+3. Develop Statement of Applicability
+4. Justify control selections
+5. Obtain management approval
+6. Implement selected controls
+7. Monitor implementation progress
+8. Verify control effectiveness
+
+**Control Owner:** Finance Department Head
+
+**Timeline:** 90 days
+
+**Success Criteria:**
+- Risk treatment plan documented
+- SOA completed for all 93 Annex A controls
+- 30+ controls selected and in implementation
+- Treatment effectiveness monitored
