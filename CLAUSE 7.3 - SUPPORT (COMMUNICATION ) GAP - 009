@@ -1,0 +1,43 @@
+# GAP-009: Communication
+
+**Clause:** 7.4 Communication
+
+**Status:** Not Implemented
+
+**Risk Level:** 🟡 MEDIUM
+
+**Gap Identified:** No formal communication plan exists for information security matters in the Finance Department
+
+**Current Situation:**
+There is no documented process for communicating information security issues, policy changes, or updates to relevant parties. Information security matters are not regularly discussed or communicated.
+
+**Requirement:**
+ISO 27001:2022 Clause 7.4 requires the organisation to determine the need for internal and external communications regarding the ISMS, including when to communicate and with whom.
+
+**Evidence Required:**
+- Communication plan document
+- Communication channels and methods defined
+- Records of communications sent
+- Meeting agendas and minutes
+- Policy distribution records
+- Feedback collection mechanisms
+
+**Recommended Corrective Action:**
+Develop and implement information security communication plan:
+1. Define communication strategy
+2. Identify communication channels (meetings, emails, intranet)
+3. Establish communication schedule
+4. Create communication topics and messages
+5. Identify recipients (staff, management, external parties)
+6. Implement feedback mechanisms
+7. Document and track all communications
+
+**Control Owner:** Finance Department Head
+
+**Timeline:** 20 days
+
+**Success Criteria:**
+- Communication plan documented
+- Monthly ISMS meetings established
+- Communications schedule created
+- Feedback mechanism in place
