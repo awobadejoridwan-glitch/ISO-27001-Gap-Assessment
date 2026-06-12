@@ -1,0 +1,46 @@
+# GAP-003: Leadership and Commitment
+
+**Clause:** 5.1 Leadership and Commitment
+
+**Status:** Partially Implemented
+
+**Risk Level:** 🔴 HIGH
+
+**Gap Identified:** No formal evidence of management commitment to information security in the Finance Department
+
+**Current Situation:**
+While information security is acknowledged as important, there is no formal, documented evidence of Finance Department management commitment to the ISMS. Management has not formally signed or publicly committed to information security, nor has commitment been communicated to staff.
+
+**Requirement:**
+ISO 27001:2022 Clause 5.1 requires top management to demonstrate leadership and commitment regarding the ISMS by:
+- Ensuring the ISMS policies and objectives are established
+- Ensuring integration of information security requirements into organisation processes
+- Allocating resources and providing support for the ISMS
+- Communicating the importance of information security
+- Ensuring the ISMS achieves its intended outcomes
+
+**Evidence Required:**
+- Signed information security policy by Finance Director
+- Management commitment statement
+- Meeting minutes showing discussion of information security
+- Resource allocation records
+- Communication evidence (emails, memos, meetings)
+- Internal audit records
+
+**Recommended Corrective Action:**
+Finance Department management must formally demonstrate and document commitment to information security:
+- Finance Director signs the information security policy
+- Formal commitment statement issued to all staff
+- Regular management reviews of ISMS performance
+- Visible allocation of resources and support
+- Participation in ISMS implementation
+
+**Control Owner:** Finance Director
+
+**Timeline:** 15 days
+
+**Success Criteria:**
+- Signed information security policy in place
+- Commitment statement communicated to all staff
+- Management review meeting scheduled
+- Resources allocated to ISMS
