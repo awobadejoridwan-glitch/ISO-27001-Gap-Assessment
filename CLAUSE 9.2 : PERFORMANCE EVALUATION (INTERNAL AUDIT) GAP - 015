@@ -1,0 +1,52 @@
+# GAP-015: Internal Audit
+
+**Clause:** 9.2 Internal Audit
+
+**Status:** Not Implemented
+
+**Risk Level:** 🔴 HIGH
+
+**Gap Identified:** No internal audit programme exists for the Finance Department
+
+**Current Situation:**
+The Finance Department has not established an internal audit function to assess ISMS conformity and effectiveness. No audits of ISMS processes or controls have been conducted.
+
+**Requirement:**
+ISO 27001:2022 Clause 9.2 requires the organisation to:
+- Conduct internal audits at planned intervals
+- Determine audit scope, frequency, methodologies
+- Ensure audit impartiality and objectivity
+- Evaluate findings
+- Address nonconformities
+- Maintain records and report results
+
+**Evidence Required:**
+- Internal audit programme document
+- Audit schedule
+- Audit procedures
+- Audit checklists
+- Audit reports
+- Nonconformity records
+- Corrective action records
+- Management review of audit results
+
+**Recommended Corrective Action:**
+Establish internal audit programme:
+1. Develop audit procedures and checklist
+2. Create annual audit schedule
+3. Audit each clause at least once per year
+4. Train internal auditors
+5. Conduct first audit cycle
+6. Document findings and nonconformities
+7. Follow up on corrective actions
+8. Report results to management
+
+**Control Owner:** Finance Department Head
+
+**Timeline:** 60 days to establish; ongoing
+
+**Success Criteria:**
+- Audit programme documented
+- Annual schedule created
+- First audit completed
+- Nonconformities identified and tracked
