@@ -1,0 +1,44 @@
+# GAP-011: Operational Planning and Control
+
+**Clause:** 8.1 Operational Planning and Control
+
+**Status:** Not Implemented
+
+**Risk Level:** 🔴 HIGH
+
+**Gap Identified:** No operational security processes or controls are formally documented in the Finance Department
+
+**Current Situation:**
+The Finance Department has not developed or documented operational security processes. There are no formal controls to ensure information security in day-to-day operations.
+
+**Requirement:**
+ISO 27001:2022 Clause 8.1 requires the organisation to plan, implement, and control processes needed to meet information security requirements.
+
+**Evidence Required:**
+- Operational security procedures documentation
+- Control procedures
+- Process flowcharts
+- Exception handling procedures
+- Operational risk records
+- Monitoring records
+- Control effectiveness reviews
+
+**Recommended Corrective Action:**
+Develop operational security processes and controls:
+1. Identify critical operational processes
+2. Document security requirements for each
+3. Design operational controls
+4. Implement procedures and guidelines
+5. Train staff on procedures
+6. Monitor compliance
+7. Review and update regularly
+
+**Control Owner:** Finance Department Head
+
+**Timeline:** 60 days
+
+**Success Criteria:**
+- 10+ operational procedures documented
+- Controls mapped to risks
+- Staff trained on procedures
+- Compliance monitoring in place
