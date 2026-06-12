@@ -1,0 +1,48 @@
+# GAP-005: Information Security Objectives
+
+**Clause:** 6.2 Information Security Objectives
+
+**Status:** Not Implemented
+
+**Risk Level:** 🟡 MEDIUM
+
+**Gap Identified:** No documented information security objectives exist for the Finance Department
+
+**Current Situation:**
+The Finance Department has not defined any measurable information security objectives. There are no goals or targets to work towards, making it impossible to measure progress or success in information security.
+
+**Requirement:**
+ISO 27001:2022 Clause 6.2 requires the organisation to:
+- Establish information security objectives at relevant functions and levels
+- Make objectives measurable (where practicable)
+- Take into account information security requirements
+- Take into account results of risk assessment and evaluation
+- Ensure objectives are monitored and reviewed
+- Communicate objectives to relevant parties
+
+**Evidence Required:**
+- Information security objectives document
+- Objectives linked to risk assessment findings
+- SMART criteria applied to objectives
+- Communication evidence
+- Monitoring and review records
+- Performance tracking data
+
+**Recommended Corrective Action:**
+Define measurable information security objectives for the Finance Department:
+1. Develop 5-10 SMART objectives aligned with risks
+2. Examples: "Achieve 100% access control compliance", "Complete information security training for 100% of staff"
+3. Link each objective to identified risks
+4. Assign ownership and timelines
+5. Communicate to all relevant parties
+6. Establish monitoring metrics
+
+**Control Owner:** Finance Director
+
+**Timeline:** 20 days
+
+**Success Criteria:**
+- Minimum 5 SMART objectives defined
+- All objectives measurable and time-bound
+- Linked to risks and requirements
+- Communicated to relevant parties
