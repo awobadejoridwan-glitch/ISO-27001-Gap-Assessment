@@ -1,0 +1,44 @@
+# GAP-010: Documented Information
+
+**Clause:** 7.5 Documented Information
+
+**Status:** Not Implemented
+
+**Risk Level:** 🔴 HIGH
+
+**Gap Identified:** Finance Department lacks documented ISMS policies, procedures and records
+
+**Current Situation:**
+The Finance Department has not created or maintained any formal ISMS documentation. No policies, procedures, control procedures, or supporting records have been documented.
+
+**Requirement:**
+ISO 27001:2022 Clause 7.5 requires the organisation to maintain documented information to the extent necessary to ensure effective planning, operation, and control of ISMS processes.
+
+**Evidence Required:**
+- Information security policy document
+- Procedure documents (access control, incident response, change management, etc.)
+- Process documentation
+- Records management procedures
+- Document control procedures
+- Retention schedules
+- Archival documentation
+
+**Recommended Corrective Action:**
+Develop comprehensive ISMS documentation:
+1. Create information security policy document
+2. Document all ISMS procedures
+3. Create process flowcharts
+4. Establish document control procedures
+5. Define document retention requirements
+6. Archive and maintain historical records
+7. Ensure accessibility to relevant parties
+
+**Control Owner:** Finance Department Head
+
+**Timeline:** 90 days
+
+**Success Criteria:**
+- Core ISMS policy documented
+- Minimum 15 key procedures documented
+- Document control process established
+- Records management system in place
