@@ -1,0 +1,40 @@
+# GAP-002: Interested Parties
+
+**Clause:** 4.2 Interested Parties
+
+**Status:** Not Implemented
+
+**Risk Level:** 🔴 HIGH
+
+**Gap Identified:** No documented register of interested parties exists for the Finance Department
+
+**Current Situation:**
+The Finance Department has not identified interested parties (stakeholders) or their information security requirements and expectations. There is no formal mechanism to determine what these parties need regarding information security.
+
+**Requirement:**
+ISO 27001:2022 Clause 4.2 requires the organisation to determine:
+- Interested parties relevant to the ISMS
+- The requirements of these interested parties regarding information security
+- Which of these requirements have become information security requirements
+
+**Evidence Required:**
+- Interested parties register
+- Stakeholder analysis documentation
+- Requirements mapping document
+- Communication records with interested parties
+
+**Recommended Corrective Action:**
+Identify and document all interested parties and their information security requirements:
+- Internal stakeholders (management, staff, audit, compliance)
+- External stakeholders (regulators, auditors, customers, partners)
+- Document their specific information security requirements
+- Map requirements to ISMS clauses
+
+**Control Owner:** Finance Department Head
+
+**Timeline:** 25 days
+
+**Success Criteria:**
+- Comprehensive interested parties register created
+- All stakeholder requirements documented
+- Requirements mapped to ISMS requirements
