@@ -1,0 +1,22 @@
+# Clause 5: Leadership and Commitment
+
+## Overview
+Clause 5 establishes the requirements for top management to demonstrate leadership and commitment to the Information Security Management System.
+
+## Gaps in this Clause
+
+| Gap | Title | Risk | Status |
+|-----|-------|------|--------|
+| GAP-003 | Leadership and Commitment | HIGH | Partially Implemented |
+
+## Key Requirements
+
+- Top management must demonstrate commitment to the ISMS
+- Leadership must ensure ISMS policies and objectives are established
+- Resources must be allocated and provided
+- The importance of information security must be communicated
+- The ISMS must achieve its intended outcomes
+
+## Remediation Priority
+
+**HIGH** — Without formal management commitment, the entire ISMS will lack the support and resources needed for success.
